@@ -4,7 +4,7 @@ import random
 import argparse
 from datetime import datetime
 import mydataloader as dataloader
-from function3 import *
+from function import *
 import pandas as pd
 
 
