@@ -10,6 +10,8 @@ Implement for paper "Self-Filtering: A Noise-Aware Sample Selection for Label No
 
 `T`  denotes threshold in confident penalty. For all experiment, we set it as `0.2`
 
+##### Others
+
 For CIFAR-10, `warm_up = 10`.       For CIFAR-100, `warm_up = 30` 
 
 ```
