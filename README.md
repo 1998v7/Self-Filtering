@@ -12,7 +12,8 @@ Implement for paper "Self-Filtering: A Noise-Aware Sample Selection for Label No
 
 ##### Others
 
-For CIFAR-10, `warm_up = 10`.       For CIFAR-100, `warm_up = 30` 
+For CIFAR-10, `warm_up = 10`      
+For CIFAR-100, `warm_up = 30`
 
 ```
 python main.py --dataset cifar10 --batch_size 32 --lr 0.02 --warm_up 10 --num_epochs 100 --noise_mode instance --r 0.2 --k 2 --T 0.2 --gpuid 0
