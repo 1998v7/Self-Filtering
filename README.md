@@ -13,6 +13,7 @@ Implement for paper "Self-Filtering: A Noise-Aware Sample Selection for Label No
 ### Others
 
 For CIFAR-10, `warm_up = 10`,`model = resnet18`
+
 For CIFAR-100, `warm_up = 30`,`model = resnet34`
 
 ```
