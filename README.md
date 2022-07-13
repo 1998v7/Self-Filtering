@@ -8,7 +8,7 @@ Implement for paper "Self-Filtering: A Noise-Aware Sample Selection for Label No
 
 `k`  denotes memory bank size. It can be set as `[2,3,4]`
 
-`T`  denotes threshold in confident penalty. For all experiment, we set it as `0.2`
+`T`  denotes threshold in confidence penalty. For all experiment, we set it as `0.2`
 
 ### Others
 
