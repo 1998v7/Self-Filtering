@@ -1,7 +1,8 @@
 # Self-Filtering
 
 Official PyTorch Implementation of Self-Filtering. 
-> paper "Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization" is accepted to ECCV 2022.
+
+> Paper "Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization" is accepted to **ECCV 2022**.
 
 # Training
 
