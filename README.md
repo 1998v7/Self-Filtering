@@ -31,10 +31,12 @@ If you have any problem about our code, feel free to contact 1998v7@gmail.com
 ### Cite
 If you find the code useful, please consider citing our paper:
 ```
-@article{wei2022self,
+@inproceedings{wei2022self,
   title={Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization},
   author={Wei, Qi and Sun, Haoliang and Lu, Xiankai and Yin, Yilong},
-  journal={arXiv preprint arXiv:2208.11351},
-  year={2022}
+  booktitle={European Conference on Computer Vision},
+  pages={516--532},
+  year={2022},
+  organization={Springer}
 }
 ```
